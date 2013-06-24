@@ -1,5 +1,6 @@
 Title: Web Request Indicator LED
 Date: 2013-1-21
+Status: hidden
 
 The idea here is pretty simple. Each time someone visits this website I want to make an LED connected to a GPIO pin flash.
 
