@@ -1,0 +1,42 @@
+Heading:
+
+
+The Lean Startup by Eric Ries
+
+Overall: This book was refreshingly practical (at least for software companies) in its approach. Ries argues for an agile software development cycle with a common sense twist, validated learning. Engineers ought to develop new product features as well as a means to measure how the new features are affecting customer behavior. Ries makes a point to differentiate "vanity metrics" from meaningful, actionable metrics. This book is really a re-application of the scientific method to modern businesses. While it might not work perfectly for all companies it certainly provides a better target for companies to shoot for. 
+
+Agile Development for Validated Learning
+
+  The Agile development cycle will be extremely familiar to many software engineers. As a hardware guy who watches scrums from the outside I'm excited by the concept. There are some pushes to make it work in hardware as well, but it would take significantly more resources and buy-in across the company to make it work. Maybe someday...
+  
+  Anyway, Agile development requires a relatively short cycle (2 weeks is typical) for design and testing of features. If this is paired with a way to measure how customers respond to the story implemented then a company can take the design, build, sell, feedback cycle from a year or two down to two weeks (again assuming a software product.) With a consistent stream of feedback a company should be able to converge on a good solution or quickly decide that no solution exists and pivot without spending significant resources running towards a dead end. 
+
+
+Vanity Metrics
+
+  It's easy to improve the quality of the product and see if 'the numbers' improve. In most cases these numbers are top line or big picture, revenue, paying customers, pageviews etc.. Ries' point is that the numbers are more convenient than they are useful. A company seeking validated learning needs to track the metrics that are essential to their engine of growth. It could be the conversion rate of free users to paying customers or from casual users to more engaged users. If a new feature begins to shift more users from casual to deeply engaged then it has had a quantifiable impact. 
+
+
+Engines of Growth
+
+  Sticky 
+    - Depend on high customer retention rate
+    - Metrics of choice: Churn rate, growth = acquisition - churn
+    - Example: Cell Phone company, Newspaper
+    
+  Viral
+    - Powered by viral loop
+    - Metrics of choice: Viral Coefficientk
+    - Example: Tupperware, Facebook, Hotmail (remember hotmail example, link in bottom of email)
+    
+  Paid
+    - Pay for advertising or other means to aquire customers
+    - Metrics of choice: Customer Lifetime Value, Cost per acquisition
+    - Examples: Using salesforces, relying on buying advertising
+    
+
+
+/The agile development process is great on its own but was already extremely familiar to me. 
+
+
+/The central theme of the book is that engineers should spend time developing products that customers will pay for. To accomplish this the engineers should be responsible for tracking how their changes affect customer behavior. The underlying theme behind this is a short development cycle, essentially agile
